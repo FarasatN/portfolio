@@ -213,3 +213,14 @@ img{
 .social-links a:hover{
     border: .17rem solid var(--color-brand2);
 }
+
+
+.c-hr{
+    height: .4rem;
+    opacity: 1;
+    background-color: var(--color-brand2);
+    color: var(--color-brand2);
+    border-color: #deff58;
+    align-items: center;
+    justify-content: center;
+}
